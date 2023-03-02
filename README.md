@@ -16,14 +16,20 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Stability.ai](https://stability.ai/home)
 * [Stabilityai 🤗](https://huggingface.co/stabilityai)
 * [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
+* [Midjourney Discord Invite](https://discord.com/invite/midjourney)
 
 ### Prompts
+#### Dall-e2
 * [Prompt book for data lovers II ❤️](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g14c8a0b6339_2_136)
 * [Dall-E2 Prompt book](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y)
 * [Dall-E2 Prompt book 2](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)
 * [Generrated Dall-E2](https://generrated.com/)
 * [Dall-E2 Guidlines](https://platform.openai.com/docs/guides/images/introduction)
-
+#### Midjourney
+* [Midjourney Keywords & Styles](https://marigoldguide.notion.site/marigoldguide/52ac9968a8da4003a825039022561a30?v=a697f852c05840478b8b504da455cfef)
+* [Midjourney Documentation](https://docs.midjourney.com/)
+* [Midjourney prompts](https://docs.midjourney.com/docs/prompts)
+* [Midjourney parameter-list](https://docs.midjourney.com/docs/parameter-list)
 
 ### Other sources
 * [.csv Stable Diffusion y Dreambooth](https://www.youtube.com/watch?v=rgKBjRLvjLs)
@@ -33,3 +39,6 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Dall-E2 Preview](https://github.com/openai/dalle-2-preview/blob/main/system-card.md)
 * [Dall-E2 Policy](https://labs.openai.com/policies/content-policy)
 * [Google artists](https://artsandculture.google.com/category/artist)
+* [Midjourney Suscription plans](https://docs.midjourney.com/docs/plans)
+
+
