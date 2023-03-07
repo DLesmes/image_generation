@@ -8,6 +8,7 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/pdf/2209.00796.pdf)
 * [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
 * [OpenAI - Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
+* [High-Resolution Image Synthesis with Latent Diffusion Models (A.K.A. LDM & Stable Diffusion)](https://ommer-lab.com/research/latent-diffusion-models/)
 
 ## Pioneers
 * [Dall-E2](https://openai.com/product/dall-e-2)
@@ -15,6 +16,7 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Openai Discord Invite](https://discord.com/invite/openai)
 * [Stability.ai](https://stability.ai/home)
 * [Stabilityai 🤗](https://huggingface.co/stabilityai)
+* [stable-diffusion-2 🤗](https://huggingface.co/stabilityai/stable-diffusion-2)
 * [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 * [Midjourney Discord Invite](https://discord.com/invite/midjourney)
 
@@ -40,5 +42,7 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Dall-E2 Policy](https://labs.openai.com/policies/content-policy)
 * [Google artists](https://artsandculture.google.com/category/artist)
 * [Midjourney Suscription plans](https://docs.midjourney.com/docs/plans)
+* [LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS](https://laion.ai/blog/laion-5b/)
+* [DreamStudio](https://beta.dreamstudio.ai/dream)
 
 
