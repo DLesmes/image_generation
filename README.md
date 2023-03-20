@@ -32,6 +32,16 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Midjourney Documentation](https://docs.midjourney.com/)
 * [Midjourney prompts](https://docs.midjourney.com/docs/prompts)
 * [Midjourney parameter-list](https://docs.midjourney.com/docs/parameter-list)
+#### Stable Diffusion
+* [Negative prompt · AUTOMATIC1111/stable-diffusion-webui Wiki · GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Negative-prompt)
+* [lexica](https://lexica.art/)
+#### General
+* [playgroundai](https://playgroundai.com/)
+
+### Inpainting
+* [table-diffusion-2-inpainting](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting)
+* [Stable Diffusion Inpainting - a Hugging Face Space by multimodalart](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting)
+* [Dall-E2 - OpenAi Labs](https://labs.openai.com/auth/signup)
 
 ### Other sources
 * [.csv Stable Diffusion y Dreambooth](https://www.youtube.com/watch?v=rgKBjRLvjLs)
@@ -43,6 +53,8 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Google artists](https://artsandculture.google.com/category/artist)
 * [Midjourney Suscription plans](https://docs.midjourney.com/docs/plans)
 * [LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS](https://laion.ai/blog/laion-5b/)
+* [openart](https://openart.ai/)
+* [Open.ai](https://open.ai/)
 * [DreamStudio](https://beta.dreamstudio.ai/dream)
 
 
