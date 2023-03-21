@@ -41,7 +41,12 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 ### Inpainting
 * [table-diffusion-2-inpainting](https://huggingface.co/stabilityai/stable-diffusion-2-inpainting)
 * [Stable Diffusion Inpainting - a Hugging Face Space by multimodalart](https://huggingface.co/spaces/multimodalart/stable-diffusion-inpainting)
+* [runwayml/stable-diffusion-inpainting](https://huggingface.co/runwayml/stable-diffusion-inpainting/tree/main)
+* [Painthua](https://www.painthua.com/)
+* [Stable Diffusion Outpainting](https://GitHub%20%2D%20lkwq007/stablediffusion,lkwq007/stablediffusion%2Dinfinity)
+* [Stable Diffusion x4 Upscaler](https://huggingface.co/stabilityai/stable-diffusion-x4-upscaler)
 * [Dall-E2 - OpenAi Labs](https://labs.openai.com/auth/signup)
+* [Dall-E2 introducing outpainting](https://openai.com/blog/dall-e-introducing-outpainting/)
 
 ### Other sources
 * [.csv Stable Diffusion y Dreambooth](https://www.youtube.com/watch?v=rgKBjRLvjLs)
