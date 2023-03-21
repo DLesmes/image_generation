@@ -48,8 +48,7 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Dall-E2 - OpenAi Labs](https://labs.openai.com/auth/signup)
 * [Dall-E2 introducing outpainting](https://openai.com/blog/dall-e-introducing-outpainting/)
 
-## Dreambooth ()
-
+## Dreambooth
 * [Dreambooth 🤗](https://huggingface.co/docs/diffusers/training/dreambooth)
 * [Dreambooth Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)
 
