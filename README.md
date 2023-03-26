@@ -51,6 +51,8 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 ## Dreambooth
 * [Dreambooth 🤗](https://huggingface.co/docs/diffusers/training/dreambooth)
 * [Dreambooth Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)
+* [To teach to an AI to create your own face](https://platzi.com/blog/ensena-a-una-ia-a-crear-tu-rostro/)
+* [YouTube - To teach to an AI to create your own face](https://www.youtube.com/watch?v=NlqYAUga60w)
 
 ### Other sources
 * [.csv Stable Diffusion y Dreambooth](https://www.youtube.com/watch?v=rgKBjRLvjLs)
