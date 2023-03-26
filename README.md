@@ -67,6 +67,7 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS](https://laion.ai/blog/laion-5b/)
 * [openart](https://openart.ai/)
 * [Open.ai](https://open.ai/)
+* [civitai - repository]https://civitai.com/()
 * [DreamStudio](https://beta.dreamstudio.ai/dream)
 
 
