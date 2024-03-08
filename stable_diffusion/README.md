@@ -1,5 +1,7 @@
 # Stability.AI
 
+[<img src="https://www.nextomoro.com/content/images/size/w600/format/webp/2022/12/Tac59LxK_400x400.jpg" width="250"/>](https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png)
+
 ## Home Page
 * [Stability.ai](https://stability.ai/home)
 * [Stabilityai 🤗](https://huggingface.co/stabilityai)

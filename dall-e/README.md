@@ -1,5 +1,7 @@
 # Dall-E
 
+[<img src="https://freelogopng.com/images/all_img/1683823510dall-e-logo-png.png" width="250"/>](https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png)
+
 ## Papers
 * [OpenAI - Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
 

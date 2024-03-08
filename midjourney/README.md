@@ -1,5 +1,8 @@
 # Midjourney
 
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" width="250"/>](https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png)
+
 ## Home Page
 * [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
 * [Midjourney Discord Invite](https://discord.com/invite/midjourney)
