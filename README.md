@@ -10,7 +10,7 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [High-Resolution Image Synthesis with Latent Diffusion Models (A.K.A. LDM & Stable Diffusion)](https://ommer-lab.com/research/latent-diffusion-models/)
 
 
-#### General
+### General
 * [playgroundai](https://playgroundai.com/)
 
 ### Inpainting
@@ -32,6 +32,6 @@ This repo contains the general code for generating images from Dall-E, Midjourne
 * [Open.ai](https://open.ai/)
 * [civitai - repository](https://civitai.com/)
 
-## awareness about the impacts of AI
+## Awareness about the impacts of AI
 * [Algorithmic Justice League](https://www.ajl.org/)
 * [DreamStudio](https://beta.dreamstudio.ai/dream)
