@@ -35,3 +35,4 @@
 ## Awareness about the impacts of AI 🫶
 * [Algorithmic Justice League](https://www.ajl.org/)
 * [DreamStudio](https://beta.dreamstudio.ai/dream)
+* [Lexica Art](https://lexica.art/)
